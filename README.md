@@ -2,7 +2,7 @@
 
 ### Welcome to my Github Profile! 👋
 
-My name is Marta and I am interested in data analytics and science. I have been working in different projects and micro-projects that I have included in my [Portfolio](https://github.com/martapintoslopez/Portfolio). 
+My name is Marta and I am interested in data analytics and science. I have worked on various projects and micro-projects, which I have included in my [Portfolio](https://github.com/martapintoslopez/Portfolio). 
 Hope you enjoy it as much as I did creating them ✨ 
 
 📫 How to reach me: martapintoslopez@gmail.com
